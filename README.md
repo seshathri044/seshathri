@@ -11,7 +11,7 @@ Android App Development (Java, XML, Android Studio)
 Area	Tools & Skills
 Languages	Java (strong), Python
 
-📈 Current Focus (May–June 2025)
+📈 Current Focus
 Building full-stack Android apps using Java + Firebase
 
 📫 How to Reach Me
