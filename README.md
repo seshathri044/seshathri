@@ -1,20 +1,37 @@
-# Seshathri
-👋 Hi, I'm M.Seshathri
-🎓 Aspiring Software Developer | 💻 Java & Android Enthusiast | ☁️ Cloud Learner | 🚀 Future Google/OpenAI Engineer
+# 👋 Hi, I'm Seshathri M
 
-👨‍💻 About Me
-I'm currently pursuing my undergraduate degree and actively building real-world skills in:
-Java Programming (Core Java, OOPs, Collections, Exception Handling)
+🎯 Aspiring Software Developer | Java Enthusiast | Backend Learner
 
-Android App Development (Java, XML, Android Studio)
-🛠️ Technologies I'm Working With
-Area	Tools & Skills
-Languages	Java (strong), Python
+---
 
-📈 Current Focus
-Building full-stack Android apps using Java + Firebase
+## 🛠️ Tech Stack
 
-📫 How to Reach Me
-Email: [mseshathri2004@gmail.com]
-LinkedIn: [linkedin.com/in/seshathri-m]
+- **Languages**: Java, Python, C  
+- **Web**: HTML, CSS  
+- **Developer Tools**: Git, GitHub, VS Code, IntelliJ IDEA  
+- **UI/UX**: Figma, Adobe XD  
+- **Concepts**: Data Structures, Algorithms, OOP  
 
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java for Backend Development
+- Practicing DSA on:
+  - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/seshathri044)
+  - [InterviewBit](https://www.interviewbit.com/profile/seshathri044)
+
+---
+
+## 📂 Projects
+
+### 🎯 Gender and Age Detection Using OpenCV
+
+A machine learning model to detect human age and gender from webcam or image input.
+
+- Uses Python, OpenCV, and pre-trained models.
+- Outputs predicted gender and a range of possible age.
+
+📎 GitHub Repo: [age-and-gender-detection](https://github.com/seshathri044/age-and-gender-detection)
+
+---
