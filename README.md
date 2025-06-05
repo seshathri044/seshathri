@@ -48,4 +48,3 @@ Seshathri M
 📧 meshathri2004@gmail.com
 🔗 LinkedIn
 💻 GitHub
----
