@@ -35,3 +35,17 @@ A machine learning model to detect human age and gender from webcam or image inp
 📎 GitHub Repo: [age-and-gender-detection](https://github.com/seshathri044/age-and-gender-detection)
 
 ---
+## 🏆 Achievements
+
+🥇 Won 1st Prize - Project Expo 2025  
+🧠 Participated in iTech Hackfest 2025 (National Hackathon - Regional Round) 
+
+---
+### 👤 Author
+Seshathri M
+📍 B.E. CSE | Anna University
+🎓 Mangayarkarasi College of Engineering
+📧 meshathri2004@gmail.com
+🔗 LinkedIn
+💻 GitHub
+---
