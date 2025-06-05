@@ -1,5 +1,5 @@
-# seshathri
-👋 Hi, I'm M. Seshathri
+# Seshathri
+👋 Hi, I'm M.Seshathri
 🎓 Aspiring Software Developer | 💻 Java & Android Enthusiast | ☁️ Cloud Learner | 🚀 Future Google/OpenAI Engineer
 
 👨‍💻 About Me
