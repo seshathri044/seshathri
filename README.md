@@ -48,5 +48,5 @@ Seshathri M
 📍 B.E. CSE | Anna University
 🎓 Mangayarkarasi College of Engineering
 📧 meshathri2004@gmail.com
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn - http://linkedin.com/in/seshathri-m
+💻 GitHub - https://github.com/seshathri044
