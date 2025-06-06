@@ -1,4 +1,4 @@
-![Seshathri M Banner](C:/Users/msesh/OneDrive/Pictures/seshathri-banner.png)
+![Seshathri M Banner](./seshathri-banner.png)
 
 # 👋 Hi, I'm Seshathri M
 
