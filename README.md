@@ -1,3 +1,5 @@
+![Seshathri M Banner](C:/Users/msesh/OneDrive/Pictures/seshathri-banner.png)
+
 # 👋 Hi, I'm Seshathri M
 
 🎯 Aspiring Software Developer | Java Enthusiast | Backend Learner
