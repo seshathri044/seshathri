@@ -5,7 +5,6 @@
 🎯 Aspiring Software Developer | Java Enthusiast | Backend Learner
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Python, C  
