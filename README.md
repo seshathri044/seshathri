@@ -47,6 +47,5 @@ A machine learning model to detect human age and gender from webcam or image inp
 Seshathri M
 📍 B.E. CSE | Anna University
 🎓 Mangayarkarasi College of Engineering
-📧 meshathri2004@gmail.com
 🔗 LinkedIn - http://linkedin.com/in/seshathri-m
 💻 GitHub - https://github.com/seshathri044
