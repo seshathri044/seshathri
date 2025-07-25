@@ -1,9 +1,10 @@
-![Seshathri M Banner](./seshathri-banner.png)
 
 # 👋 Hi, I'm Seshathri M
 
-🎯 Aspiring Software Developer | Java Enthusiast | Backend Learner
+![Seshathri M Banner](./seshathri-banner.png)
 
+
+🎯 Aspiring Software Developer | Java Enthusiast | Backend Learner
 ---
 ## 🛠️ Tech Stack
 
