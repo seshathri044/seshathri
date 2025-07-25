@@ -19,9 +19,7 @@
 ## 🌱 Currently Learning
 
 - Advanced Java for Backend Development
-- Practicing DSA on:
-  - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/seshathri044)
-  - [InterviewBit](https://www.interviewbit.com/profile/seshathri044)
+- Practicing DSA.
 
 ---
 
