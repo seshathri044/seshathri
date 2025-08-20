@@ -8,8 +8,9 @@
 ---
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, C  
-- **Web**: HTML, CSS  
+- **Languages**: Java, Python, C
+- **Web**: HTML, CSS
+- **FrameWork**: Flutter
 - **Developer Tools**: Git, GitHub, VS Code, IntelliJ IDEA  
 - **UI/UX**: Figma, Adobe XD  
 - **Concepts**: Data Structures, Algorithms, OOP  
@@ -37,13 +38,13 @@ A machine learning model to detect human age and gender from webcam or image inp
 ---
 ## 🏆 Achievements
 
-🥇 Won 1st Prize - Project Expo 2025  
-🧠 Participated in iTech Hackfest 2025 (National Hackathon - Regional Round) 
+- 🥇 Won 1st Prize - Project Expo 2025  
+- 🧠 Participated in iTech Hackfest 2025 (National Hackathon - Regional Round) 
 
 ---
-### 👤 Author
-Seshathri M
-📍 B.E. CSE | Anna University
-🎓 Mangayarkarasi College of Engineering
-🔗 LinkedIn - http://linkedin.com/in/seshathri-m
-💻 GitHub - https://github.com/seshathri044
+## 👤 Author
+### Seshathri M
+- 📍 B.E. CSE | Anna University
+- 🎓 Mangayarkarasi College of Engineering
+- 🔗 LinkedIn - http://linkedin.com/in/seshathri-m
+- 💻 GitHub - https://github.com/seshathri044
