@@ -36,6 +36,7 @@ A machine learning model to detect human age and gender from webcam or image inp
 📎 GitHub Repo: [age-and-gender-detection](https://github.com/seshathri044/age-and-gender-detection)
 
 ---
+
 ## 🏆 Achievements
 
 - 🥇 Won 1st Prize - Project Expo 2025  
