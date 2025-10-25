@@ -68,6 +68,8 @@ public class Seshathri {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -216,11 +218,9 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 
 ### ⭐ Show some love by starring my repositories!
 
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+**Every commit is a small step toward clarity or chaos — choose clarity**
 
 ---
-
-
 Made with ❤️ by Seshathri M | Last Updated: October 2025
 
 </div>
